@@ -1,4 +1,2 @@
 package com.daelim.springtest
-
-class leesky {
-}
+//나눈 귀여운하늘이
